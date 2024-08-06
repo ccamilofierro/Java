@@ -1,6 +1,3 @@
-Aquí tienes el archivo `.md` con información sobre los operadores aritméticos, lógicos y relacionales en Java, utilizando la estructura correcta con `#` para el título principal y `##` para las subsecciones.
-
-```md
 # Operadores en Java
 
 ## Operadores Aritméticos
@@ -62,7 +59,3 @@ boolean mayor = x > y; // false
 boolean menor = x < y; // true
 boolean mayorOigual = x >= y; // false
 boolean menorOigual = x <= y; // true
-```
-
-Estos operadores son fundamentales para el control de flujo y la toma de decisiones en los programas Java.
-```
